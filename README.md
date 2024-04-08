@@ -1,4 +1,4 @@
-# Esse código foi criado por mim ErikMD, uma modificação do código da Jornada Python da Hashtag programação usando Selenium
+# Esse código foi criado por mim ErikMD, uma modificação do código da Jornada Python da Hashtag programação, usando Selenium
 
 O código faz uma automação web de cadastro de produtos usando uma base de dados csv.
 
